@@ -1,0 +1,8 @@
+1. Download and Unzip the files in one folder on laptop
+2. Install Python: https://www.python.org/downloads/
+3. Open Command Prompt
+4. Create virual environment: python -m venv env
+5. Used CD command to move to folder where all files are unzipped
+6. Install all packages: pip install -r requirements.txt
+7. Register and request a free API token from Huggingface: https://huggingface.co/settings/tokens
+8. Using notepad app, type `HUGGINGFACEHUB_API_TOKEN = "your_API_Token", then save as .env file in your unzip folder with all the source files
