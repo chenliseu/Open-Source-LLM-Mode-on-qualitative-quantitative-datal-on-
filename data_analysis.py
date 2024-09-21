@@ -2,10 +2,17 @@
 from dotenv import load_dotenv
 import os
 import streamlit as st
+
+#imorting data analysis library
 import pandas as pd
-from pandasai import PandasAI
+import seaborn as sns
 import matplotlib.pyplot as plt
+
+#imorting pandas ai library
+from pandasai import PandasAI
 from pandasai.llm.starcoder import Starcoder
+
+
 
 def main():
 
@@ -33,7 +40,7 @@ def main():
 
         Question = st.text_input('Ask your question here')
 
-        if st.button('Analyze'):
+        if st.button('Submit'):
             if Question:
                 with st.spinner("Analyzing the results..."):
                     try:
