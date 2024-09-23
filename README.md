@@ -4,7 +4,7 @@ This model offers a free open source Large Language model applied on Qualitative
 * Quatitative Data: LLM Starcoder Model for code generation from huggingface that is pretained on license data, along with PandasAI to generate plot. The prompt is applied on files in csv format
 
 ## Installation
-Follow the ![installation guide]([https://github.com/chenliseu/Data-Analysis-Employee-Attrition/blob/main/Employee%20Attrition%20Summary%20Plot.png](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/Installation_Guide.txt)
+Follow the ![installation guide]([https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/Installation_Guide.txt])
 * Download and Unzip the files in one folder on laptop
 * Install Python: https://www.python.org/downloads/
 * Open Command Prompt
