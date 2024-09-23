@@ -16,13 +16,12 @@ Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-
 
 ## Run the Model 
 Run: streamlit run main.py. You shall the see the main page where it can direct you to two pages to apply LLM on Qualitative & Quatitative Data
-### Main Page
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Main Page" width="100">
-![Main Page](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/main.png)
 
-### Model Implementation
+<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Main Page" width="200">
+### ![Main Page](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/main.png)
+
+### ![Model Implementation](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/model_intro.png)
 <img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="400">
-![Detailed Model](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/model_intro.png)
 
 # Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
