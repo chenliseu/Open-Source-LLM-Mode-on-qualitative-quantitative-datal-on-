@@ -19,8 +19,6 @@ streamlit run main.py
 
 ## Model Implementation
 <img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Detailed Model" width="500">
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="500">
-
 
 # Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
