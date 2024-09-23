@@ -17,8 +17,7 @@ Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-
 ## Run the Model 
 streamlit run main.py
 
-### Model Implementation
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="500">
+## ![Model Implementation](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png)
 
 # Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
