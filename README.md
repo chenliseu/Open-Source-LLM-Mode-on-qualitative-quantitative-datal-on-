@@ -17,9 +17,7 @@ Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-
 ## Run the Model 
 streamlit run main.py
 
-You shall the see the main page where it can direct you to two pages to apply LLM on Qualitative & Quatitative Data
-
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Main Page" width="300">
+### Model Implementation
 <img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="500">
 
 # Reference
