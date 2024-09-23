@@ -26,3 +26,5 @@ streamlit run main.py
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
 * [google/flan-t5-large Model](https://huggingface.co/google/flan-t5-large)
 * [Streamlit File Uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
+
+## ![Main Page](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/main.png)
