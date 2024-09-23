@@ -4,7 +4,7 @@ This model offers a free open source Large Language model applied on Qualitative
 * Quatitative Data: LLM Starcoder Model for code generation from huggingface that is pretained on license data, along with PandasAI to generate plot. The prompt is applied on files in csv format
 
 ## Installation
-Follow the ![installation guide](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/Installation_Guide.txt)
+Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/Installation_Guide.txt)
 * Download and Unzip the files in one folder on laptop
 * Install Python: https://www.python.org/downloads/
 * Open Command Prompt
@@ -17,10 +17,10 @@ Follow the ![installation guide](https://github.com/chenliseu/Open-Source-LLM-on
 ## Run the Model 
 Run: streamlit run main.py. You shall the see the main page where it can direct you to two pages to apply LLM on Qualitative & Quatitative Data
 #### Main Page
-![Main Page](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/main.png)
-![Detailed Model](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/model_intro.png)
+[Main Page](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/main.png)
+[Detailed Model](https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/blob/main/model_intro.png)
 
 # Reference
-* ![PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
-* ![google/flan-t5-large Model](https://huggingface.co/google/flan-t5-large)
-* ![Streamlit File Uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
+* [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
+* [google/flan-t5-large Model](https://huggingface.co/google/flan-t5-large)
+* [Streamlit File Uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
