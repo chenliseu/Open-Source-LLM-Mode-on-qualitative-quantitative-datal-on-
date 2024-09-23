@@ -14,11 +14,13 @@ Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-
 * Register and request a free API token from Huggingface: https://huggingface.co/settings/tokens
 * Using notepad app, type `HUGGINGFACEHUB_API_TOKEN = "your_API_Token", then save as .env file in your unzip folder with all the source files
 
-## Run the Model 
+## Running the Application
+
+To run the application, use the following command:
+
+```bash
 streamlit run main.py
 
-## Model Implementation
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Detailed Model" width="500">
 
 # Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
