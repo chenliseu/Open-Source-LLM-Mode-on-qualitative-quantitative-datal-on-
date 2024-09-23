@@ -15,11 +15,12 @@ Follow the [installation guide](https://github.com/chenliseu/Open-Source-LLM-on-
 * Using notepad app, type `HUGGINGFACEHUB_API_TOKEN = "your_API_Token", then save as .env file in your unzip folder with all the source files
 
 ## Run the Model 
-Run: streamlit run main.py. You shall the see the main page where it can direct you to two pages to apply LLM on Qualitative & Quatitative Data
+streamlit run main.py
+
+You shall the see the main page where it can direct you to two pages to apply LLM on Qualitative & Quatitative Data
 
 <img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/main.png" alt="Main Page" width="300">
-
-<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="400">
+<img src="https://github.com/chenliseu/Open-Source-LLM-on-qualitative-and-quantitative-data/raw/main/model_intro.png" alt="Detailed Model" width="500">
 
 # Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
