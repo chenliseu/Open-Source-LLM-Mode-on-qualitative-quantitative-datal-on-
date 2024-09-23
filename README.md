@@ -20,9 +20,9 @@ To run the application, use the following command:
 
 ```bash
 streamlit run main.py
+```
 
-
-# Reference
+## Reference
 * [PandasAI Starcoder](https://github.com/Sinaptik-AI/pandas-ai/discussions/60)
 * [google/flan-t5-large Model](https://huggingface.co/google/flan-t5-large)
 * [Streamlit File Uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
